@@ -64,7 +64,7 @@ PyTransportNSW==0.1.1
 PyTurboJPEG==1.4.0
 
 # homeassistant.components.vicare
-PyViCare==0.2.0
+PyViCare==0.2.5
 
 # homeassistant.components.xiaomi_aqara
 PyXiaomiGateway==0.13.4
@@ -735,7 +735,7 @@ hass-nabucasa==0.39.0
 hass_splunk==0.1.1
 
 # homeassistant.components.tasmota
-hatasmota==0.2.5
+hatasmota==0.2.6
 
 # homeassistant.components.jewish_calendar
 hdate==0.9.12
@@ -787,7 +787,7 @@ huawei-lte-api==1.4.17
 hydrawiser==0.2
 
 # homeassistant.components.hyperion
-hyperion-py==0.6.1
+hyperion-py==0.7.0
 
 # homeassistant.components.bh1750
 # homeassistant.components.bme280
@@ -1274,7 +1274,7 @@ pyarlo==0.2.4
 pyatag==0.3.4.4
 
 # homeassistant.components.netatmo
-pyatmo==4.2.1
+pyatmo==4.2.2
 
 # homeassistant.components.atome
 pyatome==0.1.1
@@ -1292,7 +1292,7 @@ pyblackbird==0.5
 # pybluez==0.22
 
 # homeassistant.components.neato
-pybotvac==0.0.19
+pybotvac==0.0.20
 
 # homeassistant.components.nissan_leaf
 pycarwings2==2.10

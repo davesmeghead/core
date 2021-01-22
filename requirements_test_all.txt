@@ -376,7 +376,7 @@ hangups==0.4.11
 hass-nabucasa==0.39.0
 
 # homeassistant.components.tasmota
-hatasmota==0.2.5
+hatasmota==0.2.6
 
 # homeassistant.components.jewish_calendar
 hdate==0.9.12
@@ -413,7 +413,7 @@ httplib2==0.10.3
 huawei-lte-api==1.4.17
 
 # homeassistant.components.hyperion
-hyperion-py==0.6.1
+hyperion-py==0.7.0
 
 # homeassistant.components.iaqualink
 iaqualink==0.3.4
@@ -652,7 +652,7 @@ pyarlo==0.2.4
 pyatag==0.3.4.4
 
 # homeassistant.components.netatmo
-pyatmo==4.2.1
+pyatmo==4.2.2
 
 # homeassistant.components.apple_tv
 pyatv==0.7.5
@@ -661,7 +661,7 @@ pyatv==0.7.5
 pyblackbird==0.5
 
 # homeassistant.components.neato
-pybotvac==0.0.19
+pybotvac==0.0.20
 
 # homeassistant.components.cloudflare
 pycfdns==1.2.1
